@@ -2,7 +2,7 @@
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/xeus-python-demo/notebooks/?path=demo.ipynb)
 
-xeus-python + JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+xeus-python + JupyterLite deployed as a static site to GitHub Pages, for demo purposes. My version.
 
 ## ✨ Try it in your browser ✨
 
