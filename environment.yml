@@ -8,5 +8,4 @@ dependencies:
   - ipycanvas
   - pandas
   - bqplot
-  - numpy
 
